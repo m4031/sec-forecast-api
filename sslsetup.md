@@ -92,4 +92,4 @@ Make sure to consult the Spring Boot and Spring Security documentation for any a
 
 
 #### Start Keycloak SSO app
-.\kc.bat start-dev --https-key-store-file=C:/APP-DEVELOPMENT/AI/SecuritiesForecast/build/certs/keystore.p12 --https-key-store-password=Royal@2023
+.\kc.bat start-dev --https-key-store-file=C:/APP-DEVELOPMENT/AI/SecuritiesForecast/build/certs/keystore.p12 --https-key-store-password=XXXX
